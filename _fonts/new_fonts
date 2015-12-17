@@ -1,0 +1,8 @@
+
+@import url(https://fonts.googleapis.com/css?family=Coming+Soon);
+@import url(https://fonts.googleapis.com/css?family=Patrick+Hand);
+@import url(https://fonts.googleapis.com/css?family=Architects+Daughter);
+
+.patrickhand{
+	font-family: Patrick Hand;
+}

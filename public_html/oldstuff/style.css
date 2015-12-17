@@ -1,0 +1,46 @@
+
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Six+Caps);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+@import url(https://fonts.googleapis.com/css?family=Ruda);
+@import url(https://fonts.googleapis.com/css?family=Exo+2);
+@import url(https://fonts.googleapis.com/css?family=Patrick+Hand);
+@import url(https://fonts.googleapis.com/css?family=Nunito);
+@import url(https://fonts.googleapis.com/css?family=Boogaloo);
+
+.ruda{
+	font-family: Ruda;
+	}
+.sixCaps{
+	font-family: Six Caps;
+}
+.raleway{
+	font-family: Raleway;
+}
+.patrickhand{
+	font-family: Patrick Hand;
+}
+
+.indieflower{
+	font-family: Indie Flower;
+}
+
+img{
+	   box-shadow:10px 10px 5px grey;
+	   border:2px solid black;
+	   
+}	   
+a:hover { 
+    background-color: #cccccc;
+}
+
+body {
+    background: -webkit-linear-gradient(blue, green); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(blue, green); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(blue, green); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(blue, green); /* Standard syntax (must be last) */
+}
+
+
+	
+	
